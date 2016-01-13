@@ -1,0 +1,18 @@
+{
+  "name": "toggle-quotes",
+  "main": "./lib/toggle-quotes",
+  "version": "0.0.1",
+  "description": "Toggles quotation marks in three states - no quotes, single quotes, double quotes",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "toggle-quotes:toggle"
+  },
+  "repository": "https://github.com/atom/toggle-quotes",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
